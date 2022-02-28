@@ -926,7 +926,7 @@ input[type=checkbox]:checked + label:before {
     
     height: 100vh;
     /*animation: bgburnsEast 25s linear infinite alternate;
-    -webkit-animation: bgburnsEast 25s linear infinite alternate;*/
+    -webkit-animation: bgburnsEast 25s linear infinite alternate; */
 }
 
 .banner-min-height {
